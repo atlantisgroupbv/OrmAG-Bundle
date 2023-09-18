@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08508f96-e271-4283-b80b-1ee27d44b2ac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Resources/config/services.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/config/services.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="08508f96-e271-4283-b80b-1ee27d44b2ac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695016827645</updated>
-      <workItem from="1695016828811" duration="11770000" />
+      <workItem from="1695016828811" duration="12527000" />
     </task>
     <servers />
   </component>
