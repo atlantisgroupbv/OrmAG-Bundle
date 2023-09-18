@@ -3,7 +3,7 @@
         'name' => 'atlantisgroup/ormag-bundle',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '964cb4743ea1eabb68d792f2759e983ecd1d51b3',
+        'reference' => '5e89ff755e5b62057ea38b33b49d3ccdfa76243d',
         'type' => 'ormag-bundle',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'atlantisgroup/ormag' => array(
-            'pretty_version' => '0.0.3',
-            'version' => '0.0.3.0',
-            'reference' => '23cddc2bf74846e4864ae6fe3c9e58bb2dd1c731',
+            'pretty_version' => '0.0.5',
+            'version' => '0.0.5.0',
+            'reference' => '58af11785013d75617ddd2b7abe4c05706841d6c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../atlantisgroup/ormag',
             'aliases' => array(),
@@ -22,7 +22,7 @@
         'atlantisgroup/ormag-bundle' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '964cb4743ea1eabb68d792f2759e983ecd1d51b3',
+            'reference' => '5e89ff755e5b62057ea38b33b49d3ccdfa76243d',
             'type' => 'ormag-bundle',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
