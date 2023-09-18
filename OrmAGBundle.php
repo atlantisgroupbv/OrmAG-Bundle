@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAGBundle;use AtlantisGroup\OrmAG\Service\ServiceFactory;use Symfony\Component\HttpKernel\Bundle\Bundle;use Symfony\Component\Translation\Translator;use Symfony\Component\Translation\Loader\PhpFileLoader;class OrmAGBundle extends Bundle{    public function boot()    {        ServiceFactory::setDiContainer($this->container);    }}

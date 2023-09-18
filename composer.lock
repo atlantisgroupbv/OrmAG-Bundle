@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "atlantisgroup/ormag",
-            "version": "0.0.2",
+            "version": "0.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/atlantisgroupbv/OrmAG.git",
-                "reference": "334ef746b9445a4f1361bd1c1a25254bd4a75db8"
+                "reference": "23cddc2bf74846e4864ae6fe3c9e58bb2dd1c731"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/atlantisgroupbv/OrmAG/zipball/334ef746b9445a4f1361bd1c1a25254bd4a75db8",
-                "reference": "334ef746b9445a4f1361bd1c1a25254bd4a75db8",
+                "url": "https://api.github.com/repos/atlantisgroupbv/OrmAG/zipball/23cddc2bf74846e4864ae6fe3c9e58bb2dd1c731",
+                "reference": "23cddc2bf74846e4864ae6fe3c9e58bb2dd1c731",
                 "shasum": ""
             },
             "require": {
@@ -53,9 +53,9 @@
             "description": "Atlantis Group Orm for CMS and administration",
             "support": {
                 "issues": "https://github.com/atlantisgroupbv/OrmAG/issues",
-                "source": "https://github.com/atlantisgroupbv/OrmAG/tree/0.0.2"
+                "source": "https://github.com/atlantisgroupbv/OrmAG/tree/0.0.3"
             },
-            "time": "2023-09-18T06:35:08+00:00"
+            "time": "2023-09-18T06:51:46+00:00"
         },
         {
             "name": "doctrine/annotations",

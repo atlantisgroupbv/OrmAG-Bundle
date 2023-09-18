@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08508f96-e271-4283-b80b-1ee27d44b2ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OrmAGBundle.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/atlantisgroup/ormag/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/atlantisgroup/ormag/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695016827645</updated>
-      <workItem from="1695016828811" duration="2046000" />
+      <workItem from="1695016828811" duration="3162000" />
     </task>
     <servers />
   </component>
