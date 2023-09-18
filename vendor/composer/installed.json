@@ -1,0 +1,51 @@
+{
+    "packages": [
+        {
+            "name": "atlantisgroup/ormag",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/atlantisgroupbv/OrmAG.git",
+                "reference": "f2f2ae82cd64784d3def55065f7a74e0630b029f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/atlantisgroupbv/OrmAG/zipball/f2f2ae82cd64784d3def55065f7a74e0630b029f",
+                "reference": "f2f2ae82cd64784d3def55065f7a74e0630b029f",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.1"
+            },
+            "time": "2023-09-18T05:58:54+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "AtlantisGroup\\OrmAG\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Sebastiaan Kooijman",
+                    "email": "bas.kooijman@gmail.com",
+                    "role": "Developer / Creator"
+                }
+            ],
+            "description": "Atlantis Group Orm for CMS and administration",
+            "support": {
+                "issues": "https://github.com/atlantisgroupbv/OrmAG/issues",
+                "source": "https://github.com/atlantisgroupbv/OrmAG/tree/master"
+            },
+            "install-path": "../atlantisgroup/ormag"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
