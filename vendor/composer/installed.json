@@ -2,17 +2,17 @@
     "packages": [
         {
             "name": "atlantisgroup/ormag",
-            "version": "0.0.5",
-            "version_normalized": "0.0.5.0",
+            "version": "0.0.8",
+            "version_normalized": "0.0.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/atlantisgroupbv/OrmAG.git",
-                "reference": "58af11785013d75617ddd2b7abe4c05706841d6c"
+                "reference": "f680716f8c9930fe52cca3aabd046a61bc22420e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/atlantisgroupbv/OrmAG/zipball/58af11785013d75617ddd2b7abe4c05706841d6c",
-                "reference": "58af11785013d75617ddd2b7abe4c05706841d6c",
+                "url": "https://api.github.com/repos/atlantisgroupbv/OrmAG/zipball/f680716f8c9930fe52cca3aabd046a61bc22420e",
+                "reference": "f680716f8c9930fe52cca3aabd046a61bc22420e",
                 "shasum": ""
             },
             "require": {
@@ -28,7 +28,7 @@
                 "psr/container": "^2.0",
                 "psr/log": "^3.0"
             },
-            "time": "2023-09-18T12:09:11+00:00",
+            "time": "2023-09-18T15:32:40+00:00",
             "type": "library",
             "installation-source": "dist",
             "autoload": {
@@ -50,7 +50,7 @@
             "description": "Atlantis Group Orm for CMS and administration",
             "support": {
                 "issues": "https://github.com/atlantisgroupbv/OrmAG/issues",
-                "source": "https://github.com/atlantisgroupbv/OrmAG/tree/0.0.5"
+                "source": "https://github.com/atlantisgroupbv/OrmAG/tree/0.0.8"
             },
             "install-path": "../atlantisgroup/ormag"
         },
