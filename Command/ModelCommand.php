@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAGBundle\Command;use AtlantisGroup\OrmAG\Console\Command\Make\Model;final class ModelCommand extends Model{    protected static $defaultName = "ormag:make:model";}

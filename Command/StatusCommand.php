@@ -1,0 +1,1 @@
+<?phpnamespace AtlantisGroup\OrmAGBundle\Command;use AtlantisGroup\OrmAG\Console\Command\Status;final class StatusCommand extends Status{    protected static $defaultName = "ormag:status";}
